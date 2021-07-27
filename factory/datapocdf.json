@@ -1,0 +1,9 @@
+{
+	"name": "datapocdf",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "82027b64-e6e3-4eb0-97cb-84e0dd576286",
+		"tenantId": "cdc5aeea-15c5-4db6-b079-fcadd2505dc2"
+	}
+}
