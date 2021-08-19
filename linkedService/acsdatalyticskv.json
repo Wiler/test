@@ -1,0 +1,11 @@
+{
+	"name": "acsdatalyticskv",
+	"type": "Microsoft.Synapse/workspaces/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://ACSDatalyticsKV.vault.azure.net/"
+		}
+	}
+}
